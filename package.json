@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-js-beatmaker-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muugiimj/tap-music.git"
+  },
+  "author": "Muugii MJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muugiimj/tap-music/issues"
+  },
+  "homepage": "https://github.com/muugiimj/tap-music#readme"
+}
